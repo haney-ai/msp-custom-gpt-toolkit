@@ -1,0 +1,293 @@
+[MSP_NAME] TICKET PRIORITY MATRIX
+
+IMPORTANT: Customize all response times and priority definitions to match YOUR MSP's actual SLAs and service tiers.
+
+================================================================================
+PRIORITY LEVEL DEFINITIONS
+================================================================================
+
+P1 - CRITICAL (Immediate Response Required)
+Response Time by Tier:
+- Basic: 4 business hours
+- Standard: 1 hour, 24×7
+- Premium: 30 minutes, 24×7
+
+Definition: Complete business stoppage or severe security threat
+
+Examples:
+- Complete network outage (no one can work)
+- Email system down organization-wide
+- Server failure affecting multiple users/critical systems
+- Active security breach or ransomware attack
+- Data loss or corruption with no backup
+- Any issue causing complete business stoppage
+- Phone system completely down
+- Critical line-of-business application unavailable (ERP, CRM for sales team, etc.)
+- Website down for e-commerce business
+
+Key Indicator: "We can't do business right now"
+
+Escalation: Automatically escalate to Level 2/3, notify account manager
+
+---
+
+P2 - HIGH (Urgent, Significant Impact)
+Response Time by Tier:
+- Basic: 8 business hours
+- Standard: 4 business hours
+- Premium: 2 hours, 24×7
+
+Definition: Significant business impact, multiple users affected, or critical function impaired
+
+Examples:
+- Partial network outage (some users/locations affected)
+- Critical application down or severely degraded
+- Email issues affecting multiple users or entire department
+- Hardware failure (server, core switch, storage)
+- Backup system failure or backup not completing
+- Significant performance degradation affecting productivity
+- VPN or remote access down (multiple users unable to work remotely)
+- Printer down in department that needs it for operations
+- Security concern (suspicious activity, potential threat)
+
+Key Indicator: "Multiple people can't work effectively" or "Critical function is impaired"
+
+Escalation: Monitor closely, escalate if not resolved within 50% of SLA window
+
+---
+
+P3 - MEDIUM (Standard Priority)
+Response Time by Tier:
+- Basic: 24 business hours
+- Standard: 8 business hours
+- Premium: 4 business hours
+
+Definition: Single user unable to work, or non-critical function affected
+
+Examples:
+- Single user workstation issues
+- Individual unable to access specific application
+- Individual email problems (can't send/receive)
+- Workstation hardware issues (monitor, keyboard, mouse)
+- Printer problems affecting single user or small group
+- Performance issues for single user
+- Software installation requests (needed for work)
+- Access/permission requests (blocking work)
+- Mobile device issues affecting single user
+
+Key Indicator: "One person can't do their job" or "Non-critical issue affecting small group"
+
+Escalation: Standard workflow, escalate if unresolved past SLA
+
+---
+
+P4 - LOW (Low Priority, Non-Urgent)
+Response Time by Tier:
+- Basic: 48 business hours
+- Standard: 24 business hours
+- Premium: 8 business hours
+
+Definition: Information requests, minor issues, or issues with easy workarounds
+
+Examples:
+- How-to questions
+- Password resets (when not blocking critical work)
+- Software installation requests (nice to have, not urgent)
+- Minor issues with easy workarounds
+- Information requests about systems or services
+- Feature requests or enhancement suggestions
+- Cosmetic issues (visual glitches that don't affect function)
+- Training requests
+- Documentation requests
+- General questions about IT policies
+
+Key Indicator: "Can work around it" or "Not time-sensitive"
+
+Escalation: Normal queue processing
+
+================================================================================
+SPECIAL CONSIDERATIONS BY CLIENT TIER
+================================================================================
+
+Basic Tier Clients:
+- Support hours: 8am-6pm M-F
+- After-hours tickets queued for next business day
+- Emergency support available for additional fee
+- P1 tickets may take longer to resolve due to limited support hours
+
+Standard Tier Clients:
+- 24×7 support availability
+- Faster response times across all priorities
+- After-hours support included for P1/P2
+- Onsite support available (up to 4 hrs/month included)
+
+Premium Tier Clients:
+- Fastest response times
+- Dedicated vCIO involvement for strategic issues
+- Priority routing to most experienced technicians
+- Onsite support available (up to 10 hrs/month included)
+- Proactive monitoring reduces P1/P2 incidents
+
+================================================================================
+ESCALATION TRIGGERS (AUTO-ESCALATE IMMEDIATELY)
+================================================================================
+
+Security Red Flags:
+- Any mention of "ransomware," "encrypted files," "bitcoin," "pay"
+- "Security breach," "hacked," "unauthorized access"
+- "Suspicious email," "phishing" (if clicked or downloaded)
+- "Malware," "virus" (if actively spreading)
+- "Data leak," "exposed data," "stolen credentials"
+- Multiple failed login attempts from unusual locations
+- Reports of strange system behavior after opening email/file
+
+Business Impact Red Flags:
+- "Everyone," "nobody can," "whole office"
+- "Production stopped," "can't manufacture," "can't ship"
+- "Losing money," "customers can't," "sales down"
+- "Compliance deadline," "audit," "regulatory"
+- "Board meeting," "investor presentation" (time-sensitive)
+
+System Red Flags:
+- "Server down," "database unavailable," "system crash"
+- "Complete outage," "nothing works"
+- "Backup failed" + "data loss"
+- Any combination of critical systems + multiple users
+
+================================================================================
+PRIORITY MATRIX DECISION TREE
+================================================================================
+
+Use this logic to determine priority:
+
+1. Is the business completely stopped?
+   → YES: P1
+   → NO: Continue
+
+2. Is there a security threat or breach?
+   → YES: P1
+   → NO: Continue
+
+3. Are multiple users affected AND unable to work?
+   → YES: P2
+   → NO: Continue
+
+4. Is a critical business function impaired (even single user)?
+   → YES: P2
+   → NO: Continue
+
+5. Is a single user unable to work (no workaround)?
+   → YES: P3
+   → NO: Continue
+
+6. Can the user work around the issue or is it non-urgent?
+   → YES: P4
+
+When in doubt: Ask yourself "What happens if we don't fix this in the next hour?"
+- Business stops = P1
+- Significant impact = P2
+- Someone can't work = P3
+- Minor inconvenience = P4
+
+================================================================================
+COMMON MISCLASSIFICATION SCENARIOS
+================================================================================
+
+Often Incorrectly Marked as P1 (Should be P2 or P3):
+- "My email is down" (single user) → P3
+- "Internet is slow" (unless affecting entire office) → P3
+- "I can't print" (single user) → P3
+- "My computer is running slow" (single user) → P3
+- "I forgot my password" (unless blocking critical work) → P4
+
+Often Incorrectly Marked as P3/P4 (Should be P1 or P2):
+- "Some people can't access email" (if 5+ users) → P2
+- "Sales team can't access CRM" (critical for their work) → P2
+- "Backup didn't run last night" (data protection issue) → P2
+- "Getting weird pop-ups" (could be security issue) → P2 until cleared
+- "Website loading errors" (for e-commerce business) → P1
+
+Context Matters:
+- "Can't print" for office admin = P3
+- "Can't print" for shipping dept printing labels = P2
+- "Outlook slow" for single user = P3
+- "Outlook slow" for entire accounting during month-end close = P2
+
+================================================================================
+TIME-BASED PRIORITY ADJUSTMENTS
+================================================================================
+
+Increase Priority When:
+- Issue occurs during critical business periods (month-end, tax season, etc.)
+- Deadline is mentioned (filing deadline, board meeting, client presentation)
+- Issue affects revenue-generating activities
+- Compliance or regulatory implications
+- Client explicitly states business impact
+
+Example:
+"Printer down" = normally P3
+"Printer down and we have 500 invoices that must go out today" = P2
+
+================================================================================
+AFTER-HOURS PRIORITY GUIDELINES
+================================================================================
+
+Basic Tier (8×5 Support):
+- All after-hours tickets queued for next business day
+- Exception: True emergencies (fee applies)
+- Set expectations in ticket response
+
+Standard Tier (24×7 Support):
+- P1: Immediate response
+- P2: Response within 4 hours
+- P3/P4: Can wait until business hours unless client requests otherwise
+
+Premium Tier (24×7 Priority Support):
+- P1: Immediate response (30 min)
+- P2: Response within 2 hours
+- P3: Response within 4 hours (after-hours)
+- P4: Can wait until business hours
+
+================================================================================
+PRIORITY VS. URGENCY VS. IMPACT
+================================================================================
+
+Priority = Urgency + Impact
+
+Urgency: How quickly does this need resolution?
+- Immediate (P1)
+- Same day (P2)
+- Within 1-2 days (P3)
+- When convenient (P4)
+
+Impact: How many people/systems affected?
+- Entire business (P1)
+- Department or multiple users (P2)
+- Single user or small group (P3)
+- Minimal impact (P4)
+
+Examples:
+- High Urgency + High Impact = P1 (server down during business hours)
+- High Urgency + Low Impact = P2/P3 (single user deadline-driven need)
+- Low Urgency + High Impact = P2 (system with workaround affecting many)
+- Low Urgency + Low Impact = P4 (nice-to-have request)
+
+================================================================================
+NOTES FOR TRIAGE ASSISTANT
+================================================================================
+
+When analyzing tickets:
+1. Look for business impact language (keywords above)
+2. Count affected users (one vs. many)
+3. Check for security red flags
+4. Consider client tier for response time expectations
+5. Note time sensitivity (deadlines, critical periods)
+6. Identify if workarounds exist
+7. Check for regulatory/compliance implications
+
+If ticket lacks critical info, always ask:
+- How many users affected?
+- Can they work at all or is there a workaround?
+- When did it start?
+- Any recent changes?
+- What's the business impact?
