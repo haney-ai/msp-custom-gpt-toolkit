@@ -1,0 +1,446 @@
+[MSP_NAME] SERVICE PACKAGES & PRICING
+
+IMPORTANT: Replace ALL pricing, service details, and package names with YOUR actual offerings. This is template content only.
+
+================================================================================
+PACKAGE SELECTION PHILOSOPHY
+================================================================================
+
+When recommending packages in proposals:
+1. Match the package to their NEEDS, not your revenue goals
+2. If they need Basic but you recommend Premium, justify it clearly
+3. If unsure between two tiers, explain the difference and let them choose
+4. Under-promise and over-deliver > over-promise and under-deliver
+5. Be honest about fit - saying "we're not the right fit" builds trust
+
+================================================================================
+BASIC SUPPORT PACKAGE
+================================================================================
+
+Best For:
+- 10-25 users
+- Stable IT environment (not growing rapidly)
+- Companies with some internal IT knowledge
+- Budget-conscious organizations
+- Simple technology stack
+- Non-regulated industries (no compliance requirements)
+
+Monthly Investment: $[XX] per user
+Minimum: [X] users
+
+What's Included:
+
+**Support:**
+- 8×5 help desk support (Monday-Friday, 8am-6pm local time)
+- Remote support only
+- Unlimited remote support tickets
+- Email and phone support
+
+**Monitoring & Maintenance:**
+- Monthly security patching and updates
+- Basic network and server monitoring
+- Antivirus management
+- Monthly system health checks
+
+**Communication:**
+- Quarterly business reviews with account manager
+- Monthly reporting on ticket activity and system status
+
+**Response Times:**
+- P1 (Critical): 4 business hours
+- P2 (High): 8 business hours
+- P3 (Medium): 24 business hours
+- P4 (Low): 48 business hours
+
+What's NOT Included:
+- After-hours support (available for additional fee)
+- Onsite support (available for additional fee at $[XXX]/hour)
+- Project work (quoted separately)
+- Hardware procurement
+- Advanced security tools
+- Backup management
+- Compliance support
+
+Best Use Cases:
+- Accounting firm with stable systems
+- Professional services office
+- Small retail business with POS system
+- Law office with basic needs
+
+Red Flags (When NOT to Recommend Basic):
+- Client mentions "we can't afford downtime"
+- Manufacturing or operations depend on IT
+- Healthcare/finance (compliance required)
+- Previous security incident
+- Growing rapidly
+- Remote workforce
+
+Sample Proposal Language:
+"Based on your [X] users, stable environment, and [mention specific situation], our Basic Support Package provides the reliable help desk and proactive maintenance you need. This gives you predictable monthly costs at $[total]/month, eliminating the surprise bills you've experienced with break-fix support."
+
+================================================================================
+STANDARD MANAGED SERVICES (Most Popular - 60% of clients)
+================================================================================
+
+Best For:
+- 25-100 users
+- Growth-stage companies
+- Technology-dependent operations
+- Companies requiring 24×7 availability
+- Businesses with remote workers
+- Light compliance needs
+
+Monthly Investment: $[XX] per user
+Minimum: [X] users
+
+What's Included:
+
+**Support:**
+- 24×7 help desk support (including holidays)
+- Remote support + limited onsite support (up to 4 hours per month included)
+- Unlimited remote support tickets
+- Priority routing during business hours
+- After-hours emergency support
+
+**Monitoring & Maintenance:**
+- Weekly security patching and updates
+- Advanced monitoring with proactive alerting
+- Predictive maintenance (catch issues before they cause problems)
+- Network infrastructure management
+- Server and workstation management
+
+**Security:**
+- Advanced antivirus and EDR (endpoint detection and response)
+- Email security and spam filtering
+- Web filtering and content control
+- Security incident response
+- Monthly security posture reviews
+
+**Backup & Recovery:**
+- Backup monitoring and management
+- Monthly backup test restores
+- Disaster recovery planning
+
+**Strategic Services:**
+- Monthly business reviews with dedicated account manager
+- Technology planning and budgeting assistance
+- Vendor management coordination
+- Cloud services management (Microsoft 365, etc.)
+
+**Response Times:**
+- P1 (Critical): 1 hour, 24×7
+- P2 (High): 4 business hours
+- P3 (Medium): 8 business hours
+- P4 (Low): 24 business hours
+
+Additional Benefits:
+- Priority scheduling for project work
+- Quarterly technology roadmap sessions
+- Proactive recommendations for improvements
+
+What's NOT Included:
+- Unlimited onsite support (beyond 4 hrs/month, additional at $[XXX]/hour)
+- Major projects (quoted separately)
+- Hardware procurement (we facilitate at cost+)
+- Compliance reporting and audits
+
+Best Use Cases:
+- Mid-sized professional services firms
+- Manufacturers with moderate IT dependency
+- Healthcare practices (with compliance add-on)
+- Financial services (with compliance add-on)
+- Distributed teams requiring VPN/remote access
+
+Why Clients Choose Standard Over Basic:
+- 24×7 support (not just business hours)
+- Proactive monitoring catches problems early
+- Included onsite support (4 hrs/month)
+- Advanced security stack
+- Backup management included
+
+Sample Proposal Language:
+"For [Company Name] with [X] users and your reliance on technology for [specific business function], we recommend our Standard Managed Services package. The 24×7 support ensures you're covered when [mention their specific pain point], and our proactive monitoring will prevent the [network issues/downtime/etc.] you've been experiencing. At $[total]/month, this provides comprehensive coverage with predictable costs."
+
+================================================================================
+PREMIUM MANAGED SERVICES
+================================================================================
+
+Best For:
+- 100+ users (or smaller companies with complex needs)
+- Mission-critical IT environments
+- Organizations where downtime = significant revenue loss
+- Strict compliance requirements (HIPAA, PCI-DSS, SOC 2)
+- Multiple locations
+- Complex technology stacks
+- 24×7 operations
+
+Monthly Investment: $[XX] per user
+Minimum: [X] users
+
+What's Included:
+
+Everything in Standard, PLUS:
+
+**Strategic Leadership:**
+- Dedicated virtual CIO (vCIO)
+- Weekly strategic planning sessions
+- 3-year technology roadmap
+- Budget forecasting and planning
+- Executive-level reporting
+- Technology committee participation
+
+**Enhanced Support:**
+- Priority routing to senior engineers
+- Dedicated account team
+- Enhanced onsite support (up to 10 hours per month included)
+- Guaranteed onsite response for P1 issues
+
+**Advanced Security:**
+- Enterprise-grade security stack
+- 24×7 Security Operations Center (SOC) monitoring
+- Quarterly cybersecurity risk assessments
+- Penetration testing (annual)
+- Dark web monitoring
+- Security awareness training for all users
+- Incident response retainer
+
+**Compliance & Governance:**
+- Compliance support and documentation (HIPAA, PCI, SOC 2, etc.)
+- Policy and procedure development
+- Compliance gap assessments
+- Audit support
+
+**Advanced Services:**
+- Real-time security patching (emergency patches within 4 hours)
+- Comprehensive backup with weekly test restores
+- Disaster recovery planning and annual testing
+- Business continuity planning
+- Capacity planning and forecasting
+- Application performance monitoring
+
+**Response Times:**
+- P1 (Critical): 30 minutes, 24×7
+- P2 (High): 2 hours, 24×7
+- P3 (Medium): 4 business hours
+- P4 (Low): 8 business hours
+
+Additional Benefits:
+- Priority project scheduling (projects start faster)
+- Dedicated project manager for larger initiatives
+- Technology refresh planning
+- Vendor relationship management
+- Strategic partnerships (Microsoft, security vendors, etc.)
+
+What's NOT Included:
+- Major capital projects (quoted separately, but prioritized)
+- Hardware procurement (we facilitate at cost+)
+- Unlimited onsite hours (beyond 10/month)
+
+Best Use Cases:
+- Healthcare organizations with HIPAA requirements
+- Financial services with regulatory oversight
+- Manufacturers with complex OT/IT integration
+- Multi-location businesses
+- SaaS companies requiring high availability
+- Organizations with board-level IT governance
+
+Why Clients Choose Premium:
+- vCIO provides strategic technology leadership
+- Fastest response times (30 min for critical issues)
+- Comprehensive security and compliance
+- Proactive vs. reactive approach
+- Peace of mind for executives
+
+Sample Proposal Language:
+"Given [Company Name]'s [size/complexity/compliance needs], our Premium Managed Services package provides the strategic technology leadership and comprehensive support you need. Your dedicated vCIO will [specific value based on their situation], while our 30-minute P1 response time ensures [their specific concern] is addressed immediately. The included compliance support addresses your [HIPAA/PCI/etc.] requirements, eliminating the risk and complexity of managing this internally."
+
+================================================================================
+ADD-ON SERVICES (Available for all tiers)
+================================================================================
+
+**Security Awareness Training**
+Investment: $[X] per user/month
+- Monthly training modules (phishing, password security, etc.)
+- Simulated phishing campaigns
+- Reporting and tracking
+- Certificates of completion for compliance
+
+Best For: All clients, but especially those with compliance needs or history of security incidents
+
+**Advanced Cybersecurity Suite**
+Investment: $[X] per user/month
+- Advanced threat detection and response
+- Dark web monitoring (credential exposure alerts)
+- Vulnerability scanning and remediation
+- Security posture scoring
+
+Best For: Financial services, healthcare, clients handling sensitive data
+
+**Microsoft 365 Advanced Management**
+Investment: $[X] per user/month
+- Advanced Teams and SharePoint configuration
+- Power Platform governance
+- Advanced security features
+- Usage optimization and training
+
+Best For: Clients heavily invested in Microsoft 365 wanting to maximize value
+
+**Cloud Infrastructure Management**
+Investment: Custom pricing
+- AWS, Azure, or Google Cloud management
+- Architecture design and optimization
+- Cost optimization and FinOps
+- Cloud security
+
+Best For: SaaS companies, development shops, cloud-heavy environments
+
+**Disaster Recovery as a Service (DRaaS)**
+Investment: Custom pricing based on data volume
+- Full business continuity solution
+- Guaranteed recovery time objectives (RTO)
+- Regular testing and documentation
+- Failover and failback procedures
+
+Best For: Organizations where even brief downtime is unacceptable
+
+**Additional Onsite Support Hours**
+Investment: $[XXX] per hour (or block pricing)
+- Available for all tiers when onsite presence needed
+- Can be purchased in blocks for discount
+- Priority scheduling for Premium clients
+
+**Project Services**
+Quoted separately based on scope:
+- Infrastructure upgrades
+- Office moves and new location setups
+- Server migrations
+- Cloud migrations
+- Network redesigns
+- Application deployments
+
+================================================================================
+PRICING MODELS & OPTIONS
+================================================================================
+
+**Per User Pricing:**
+Standard model - easiest to understand and scale
+
+**Flat Rate Pricing:**
+Available for companies with non-standard user counts or devices
+Custom quote based on environment complexity
+
+**Hybrid Pricing:**
+Some clients have different needs by location or department
+Can mix tiers (e.g., Standard for main office, Basic for remote satellite)
+
+**Contract Terms:**
+- Standard: 12-month agreements
+- Month-to-month available at 15% premium
+- Multi-year discounts available (3-year = 5% discount)
+
+**Onboarding Fee:**
+One-time fee of $[X] per user (waived for 36-month contracts)
+Covers initial assessment, documentation, tool deployment
+
+================================================================================
+COMPETITIVE POSITIONING
+================================================================================
+
+**vs. Break-Fix:**
+Higher monthly cost, but:
+- Predictable budgeting
+- Proactive vs. reactive
+- Less downtime
+- Better security
+- Strategic partnership
+
+ROI Calculation: Average break-fix client spends $[X] annually + downtime costs
+
+**vs. In-House IT:**
+Similar or lower cost when you factor:
+- Salary + benefits for IT person
+- 24×7 coverage requires multiple people
+- Specialized expertise (security, cloud, compliance)
+- Vacation/sick coverage
+- Training and certifications
+
+Position as: Augment in-house IT, not replace (for larger organizations)
+
+**vs. Other MSPs:**
+Differentiate on:
+- [Your specific differentiators - e.g., industry specialization, local presence, specific technologies, etc.]
+- Response times
+- Proactive approach
+- Strategic vs. tactical
+- Cultural fit
+
+================================================================================
+PACKAGE RECOMMENDATION DECISION TREE
+================================================================================
+
+Start Here: What's their user count?
+- <15 users → Basic or Standard (depends on needs)
+- 15-75 users → Standard (most common)
+- 75-150 users → Standard or Premium (depends on complexity)
+- 150+ users → Premium (usually)
+
+Then Consider:
+
+**Upgrade to Next Tier If:**
+- Compliance requirements (HIPAA, PCI, etc.) → Premium
+- 24×7 operations or global presence → Standard minimum
+- Previous security incident → Standard minimum
+- Manufacturing/production dependency → Standard or Premium
+- Multiple locations → Premium recommended
+- Complex technology stack → Premium
+- "Downtime costs us $X per hour" → Premium
+
+**Stay at Current or Lower Tier If:**
+- Simple environment
+- Budget constraints (but be honest about limitations)
+- Seasonal business with variable needs
+- Tech-savvy internal team (just need backup)
+
+**Red Flag - Walk Away If:**
+- Expectations don't match any tier (even Premium)
+- Looking for cheapest option only (not value)
+- Won't commit to minimum contract term
+- History of vendor disputes
+- Unrealistic demands
+
+================================================================================
+PROPOSAL PRICING PRESENTATION
+================================================================================
+
+**Do This:**
+✓ Present as monthly investment (not cost)
+✓ Break down what's included
+✓ Compare to current spend (break-fix) or alternatives (in-house)
+✓ Show ROI or value (downtime prevented, time saved, risk reduced)
+✓ Be transparent about what's NOT included
+✓ Offer package comparison if between two tiers
+
+**Don't Do This:**
+✗ Lead with price
+✗ Apologize for price
+✗ Discount before they ask
+✗ Hide what's not included
+✗ Use confusing pricing structures
+✗ Compare only on price to competitors
+
+**Sample Pricing Language:**
+
+"Your monthly investment for Standard Managed Services with [X] users is $[total]/month. This includes [list 4-5 key items specific to their needs], eliminating the unpredictable costs and downtime you've experienced with your current break-fix model. Based on your stated average IT spending of $[their number], this represents [more/less/similar] while providing significantly more value through proactive support and 24×7 availability."
+
+================================================================================
+FINAL NOTES FOR PROPOSAL GENERATOR
+================================================================================
+
+When generating proposals:
+1. Always justify why you're recommending a specific tier
+2. Connect pricing to their specific business value
+3. Address their pain points directly
+4. Be honest about what's not included
+5. Provide clear ROI or value justification
+6. Make next steps crystal clear
+7. Include confidence without arrogance
