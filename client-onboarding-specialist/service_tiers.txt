@@ -1,0 +1,164 @@
+[MSP_NAME] SERVICE TIER DEFINITIONS
+
+IMPORTANT: Customize all pricing, service details, and tier names to match YOUR MSP's actual offerings.
+
+================================================================================
+BASIC TIER
+================================================================================
+
+Monthly Investment: Starting at $[XX] per user
+
+Best For:
+- Small businesses (10-25 users)
+- Stable IT environments
+- Budget-conscious organizations
+- Companies with some internal IT capability
+
+Core Services Included:
+- 8×5 help desk support (Monday-Friday, 8am-6pm local time)
+- Remote support only
+- Monthly security patching and updates
+- Basic network and server monitoring
+- Quarterly business reviews with account manager
+- Email and productivity suite support
+- Standard antivirus and malware protection
+
+Response Time SLAs:
+- Priority 1 (Critical - Business down): 4 business hours
+- Priority 2 (High - Significant impact): 8 business hours
+- Priority 3 (Medium - Single user impact): 24 business hours
+- Priority 4 (Low - Information/How-to): 48 business hours
+
+What's NOT Included:
+- After-hours support (available for additional fee)
+- Onsite support (available for additional fee)
+- Project work (quoted separately)
+- Hardware procurement
+
+================================================================================
+STANDARD TIER (Most Popular)
+================================================================================
+
+Monthly Investment: Starting at $[XX] per user
+
+Best For:
+- Growing businesses (25-100 users)
+- Companies requiring 24×7 availability
+- Organizations with compliance requirements
+- Businesses dependent on technology for operations
+
+Core Services Included:
+- 24×7 help desk support (including holidays)
+- Remote support + limited onsite support (up to 4 hours/month included)
+- Weekly security patching and updates
+- Advanced monitoring with proactive alerting
+- Monthly business reviews with dedicated account manager
+- Backup monitoring and management
+- Advanced security stack (EDR, email security, web filtering)
+- Network infrastructure management
+- Cloud services management (Microsoft 365, etc.)
+- Vendor management coordination
+
+Response Time SLAs:
+- Priority 1 (Critical - Business down): 1 hour, 24×7
+- Priority 2 (High - Significant impact): 4 business hours
+- Priority 3 (Medium - Single user impact): 8 business hours
+- Priority 4 (Low - Information/How-to): 24 business hours
+
+Additional Benefits:
+- Priority scheduling for project work
+- Quarterly technology planning sessions
+- Monthly reporting on system health and security
+
+What's NOT Included:
+- Unlimited onsite support (beyond 4 hrs/month, additional fees apply)
+- Major project work (quoted separately)
+- Hardware procurement (we can facilitate at cost+)
+
+================================================================================
+PREMIUM TIER
+================================================================================
+
+Monthly Investment: Starting at $[XX] per user
+
+Best For:
+- Larger organizations (100+ users)
+- Businesses with complex IT environments
+- Companies with strict compliance requirements (HIPAA, PCI, etc.)
+- Organizations where downtime = significant revenue loss
+
+Core Services Included:
+Everything in Standard tier, PLUS:
+- Dedicated virtual CIO (vCIO) for strategic planning
+- Unlimited remote support + enhanced onsite support (up to 10 hours/month)
+- Real-time security patching (emergency patches deployed immediately)
+- Comprehensive monitoring with predictive analytics and capacity planning
+- Weekly strategic reviews with vCIO
+- Advanced backup solution with regular testing and documentation
+- Enterprise-grade security stack with 24×7 SOC monitoring
+- Cybersecurity risk assessments (quarterly)
+- Compliance support and documentation (HIPAA, PCI-DSS, etc.)
+- Disaster recovery planning and testing (annual)
+- Priority access to all engineers
+- After-hours emergency support included
+
+Response Time SLAs:
+- Priority 1 (Critical - Business down): 30 minutes, 24×7
+- Priority 2 (High - Significant impact): 2 hours, 24×7
+- Priority 3 (Medium - Single user impact): 4 business hours
+- Priority 4 (Low - Information/How-to): 8 business hours
+
+Additional Benefits:
+- Priority project scheduling (projects start faster)
+- Technology roadmap planning (3-year strategic plan)
+- Budget forecasting and planning
+- Executive-level reporting
+- Guaranteed onsite response for critical issues
+
+What's NOT Included:
+- Major capital projects (quoted separately)
+- Hardware procurement (we can facilitate at cost+)
+
+================================================================================
+ADD-ON SERVICES (Available for all tiers)
+================================================================================
+
+Security Awareness Training: $[X] per user/month
+- Monthly training modules
+- Phishing simulation campaigns
+- Reporting and compliance tracking
+
+Advanced Cybersecurity Suite: $[X] per user/month
+- Advanced threat detection
+- Dark web monitoring
+- Vulnerability scanning
+
+Cloud Infrastructure Management: Custom pricing
+- AWS, Azure, or Google Cloud management
+- Architecture design and optimization
+- Cost optimization
+
+Disaster Recovery as a Service (DRaaS): Custom pricing
+- Full business continuity solution
+- Regular testing and documentation
+- Guaranteed recovery time objectives
+
+Additional Onsite Hours: $[XXX] per hour
+- Available for all tiers when onsite presence needed beyond included hours
+
+Project Work: Custom quotes
+- Infrastructure upgrades
+- Migrations (cloud, server, office moves)
+- New location setups
+- Custom development
+
+================================================================================
+NOTES FOR ONBOARDING SPECIALIST:
+
+When generating onboarding materials:
+1. Always emphasize the tier they selected and why it fits their needs
+2. Highlight specific services that address their pain points
+3. Explain SLAs in plain language (not just numbers)
+4. Mention add-ons only if relevant to their stated needs
+5. Include realistic expectations (what IS and ISN'T included)
+6. Reference their specific user count in pricing discussions
