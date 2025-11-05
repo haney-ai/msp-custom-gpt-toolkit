@@ -1,0 +1,226 @@
+[MSP_NAME] CONTACT INFORMATION AND ESCALATION PROCEDURES
+
+IMPORTANT: Replace ALL contact information below with your actual team details.
+
+================================================================================
+PRIMARY SUPPORT CHANNELS
+================================================================================
+
+Help Desk (Technical Support):
+Phone: (XXX) XXX-XXXX
+Email: support@[yourcompany].com
+Portal: https://portal.[yourcompany].com
+Hours: [Specify based on tier - 8×5, 24×7, etc.]
+
+Client Portal:
+- Submit tickets
+- Check ticket status
+- Access documentation and knowledge base
+- View system health reports
+- Access invoices and billing information
+
+Best Practices for Contacting Support:
+- For fastest response, submit tickets via portal
+- For urgent issues, call the help desk directly
+- Include detailed description of the issue
+- Specify affected users/systems
+- Note any error messages received
+
+================================================================================
+AFTER-HOURS EMERGENCY SUPPORT
+================================================================================
+
+Emergency Line (Premium Clients Only): (XXX) XXX-XXXX
+
+What Qualifies as an Emergency:
+- Complete network or system outage
+- Security breach or suspected breach
+- Data loss or corruption affecting business operations
+- Any issue causing complete business stoppage
+
+Non-Emergency Issues:
+- Single user problems (can wait until business hours)
+- How-to questions
+- Non-critical software issues
+- Routine requests
+
+Note: Non-emergency calls to the emergency line may incur additional fees.
+
+================================================================================
+ESCALATION PATH
+================================================================================
+
+Level 1: Help Desk Technician
+Handles:
+- Password resets and account unlocks
+- Basic troubleshooting (printer issues, software problems)
+- How-to questions and user training
+- Ticket creation and documentation
+
+Response: Immediate acknowledgment, resolution per your tier's SLA
+
+When to Escalate: If Level 1 cannot resolve within 50% of SLA window
+
+---
+
+Level 2: Senior Engineer
+Handles:
+- Complex technical issues
+- Infrastructure problems (servers, network, firewalls)
+- Multi-user issues
+- Advanced troubleshooting
+
+Escalation Trigger: Level 1 unable to resolve, or issue requires elevated permissions/expertise
+
+---
+
+Level 3: Lead Engineer / Solutions Architect
+Handles:
+- Critical system outages
+- Major infrastructure failures
+- Architectural issues and design
+- Escalated complex problems
+
+Escalation Trigger: 
+- Business-critical issues affecting entire organization
+- Level 2 unable to resolve
+- Issues requiring architectural decisions
+
+---
+
+Level 4: Account Manager / Virtual CIO
+Handles:
+- Service concerns and satisfaction issues
+- Strategic technology guidance
+- Billing and contract questions
+- Project planning and scoping
+
+Contact When:
+- You have concerns about service quality
+- Strategic technology planning needed
+- Questions about your service agreement
+- Project discussion needed
+
+================================================================================
+ACCOUNT MANAGEMENT TEAM
+================================================================================
+
+Your Dedicated Account Manager: [To be assigned during onboarding]
+Email: [accountmanager]@[yourcompany].com
+Direct Line: (XXX) XXX-XXXX
+Responsibilities:
+- Your primary point of contact for non-technical matters
+- Monthly/quarterly business reviews
+- Service quality oversight
+- Contract and billing questions
+- Project coordination
+
+Virtual CIO (Premium Tier): [To be assigned during onboarding]
+Email: [vcio]@[yourcompany].com
+Direct Line: (XXX) XXX-XXXX
+Responsibilities:
+- Strategic technology planning
+- IT budget forecasting
+- Technology roadmap development
+- Vendor relationship management
+- Executive-level reporting
+
+================================================================================
+EXECUTIVE CONTACTS (For Escalated Concerns)
+================================================================================
+
+If you have concerns that haven't been resolved through normal channels:
+
+Director of Client Services: [Name]
+Email: [director]@[yourcompany].com
+Phone: (XXX) XXX-XXXX
+
+President/CEO: [Name]
+Email: [ceo]@[yourcompany].com
+Phone: (XXX) XXX-XXXX
+
+We want to resolve any concerns quickly. Please don't hesitate to escalate if you're not satisfied.
+
+================================================================================
+BILLING AND ADMINISTRATIVE CONTACTS
+================================================================================
+
+Billing Questions:
+Email: billing@[yourcompany].com
+Phone: (XXX) XXX-XXXX
+Hours: Monday-Friday, 8am-5pm
+
+Account Changes (add/remove users, service tier changes):
+Contact your Account Manager or email: accounts@[yourcompany].com
+
+================================================================================
+AFTER-HOURS CONTACT GUIDELINES
+================================================================================
+
+Standard Tier Clients:
+- Emergency line available 24×7 for Priority 1 issues only
+- Non-emergency issues: Submit portal ticket, will be addressed next business day
+- Response within 1 hour for true emergencies
+
+Premium Tier Clients:
+- Dedicated emergency line with guaranteed 30-minute response
+- All priority levels supported 24×7
+- Direct escalation path to senior engineers
+
+Basic Tier Clients:
+- Support available during business hours (8am-6pm M-F)
+- After-hours: Submit portal ticket for next-day response
+- Emergency support available for additional fee if needed
+
+================================================================================
+COMMUNICATION PREFERENCES
+================================================================================
+
+During Onboarding:
+We'll ask about your preferred communication methods:
+- Email updates on ticket progress?
+- Text/SMS for critical alerts?
+- Phone calls for certain priority levels?
+- Portal notifications only?
+
+Let your Account Manager know your preferences during your kickoff call.
+
+================================================================================
+RESPONSE TIME EXPECTATIONS BY TIER
+================================================================================
+
+[Customize based on your actual SLAs]
+
+Basic Tier:
+- P1 (Critical): 4 business hours
+- P2 (High): 8 business hours
+- P3 (Medium): 24 business hours
+- P4 (Low): 48 business hours
+
+Standard Tier:
+- P1 (Critical): 1 hour, 24×7
+- P2 (High): 4 business hours
+- P3 (Medium): 8 business hours
+- P4 (Low): 24 business hours
+
+Premium Tier:
+- P1 (Critical): 30 minutes, 24×7
+- P2 (High): 2 hours, 24×7
+- P3 (Medium): 4 business hours
+- P4 (Low): 8 business hours
+
+Response Time = Time from ticket submission to initial response
+Resolution Time = Varies based on complexity
+
+================================================================================
+IMPORTANT REMINDERS
+================================================================================
+
+✓ Save the help desk number in your phone
+✓ Bookmark the client portal
+✓ Set up your portal account during onboarding
+✓ Know who your Account Manager is
+✓ Understand what qualifies as an emergency for your tier
+✓ When in doubt, contact us - we're here to help
+
+Questions about who to contact? Ask your Account Manager during onboarding.
